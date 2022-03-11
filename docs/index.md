@@ -56,12 +56,11 @@ Zum Semesterbeginn findet eine (Online-)Auftaktveranstaltung statt. hnen an Ihre
 
 | Sitzung | Datum | Thema | Inhalt |
 |:-------:|:--------:|:---------|:---------|
-| **Block 1** ||||
 | 1 | NN  | Einführung | Einführung in geographische und GI Raumkonzepte, Einführung in `R` als Programmiersprache, Einstiegsbeispiel Verknüpfung von Tabellen mit Geometriedaten |
-| 2 | NN  | Räumliche Datenvisualisierung, Karten und mehr | Die reproduzierbare Erstellung von Karten zur explorativen und interaktiven Nutzung sowie zur Darstellung von Ergebnissen |
-| 3 | NN  | Räumliche Datenvorhersage und ihre Exploration | Überblick über wichtige Methoden zur räumlichen Vorhersage und ihre Darstellung |
-| 4 | NN  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 1 die Grundlagen  | Grundlagen des Maschinellen Lernens am Beispiel des random forest Algorithmus, räumliche Besonderheiten |
-| 5 | NN  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 2 das Projekt  | Projekt zu einer einfachen ML Anwendung inkl. Visualisierung und Kurzanalyse  |
+| 2 | NN  |  Big Data Zensus 2011 | Die reproduzierbare Erstellung von Karten zur explorativen und interaktiven Nutzung sowie zur Darstellung von Ergebnissen |
+| 3 | NN  | Distanz, Region, räumlicher Einfluß | Überblick über wichtige Methoden zur räumlichen Vorhersage und ihre Darstellung |
+| 4 | NN  | Räumliche Regression   | Grundlagen der räumlichen Regressionmodellierung |
+| 5 | NN  | Visualisierung  | Daten- und Ergebnisvisualisierung  |
 
 
 ## Kursleitung
