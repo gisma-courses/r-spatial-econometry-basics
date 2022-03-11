@@ -46,28 +46,26 @@ Zum Abschluss der Übungen ist ein individuelles Projekt durchzuführen und ein 
 
 ## Ablauf
 
-Am 28.04.2020 findet die Online-Auftaktveranstaltung statt. Den Link finden Sie im [Kursbereich der Ilias-Lernplattform](https://ilias.uni-marburg.de/ilias.php?ref_id=1900529&cmd=infoScreen&cmdClass=ilrepositorygui&cmdNode=ts&baseClass=ilRepositoryGUI), in der Ablauf und zum Inhaltgeklärt werden sowie die erste inhaltliche Veranstaltung stattfindet. Dieser Online Kurs behandelt den ersten Block. 
+Zum Semesterbeginn findet eine (Online-)Auftaktveranstaltung statt. hnen an Ihre Studierenden-Emailaddresse zugeschickt.In dieser Veranstaltung werden der Ablauf und Inhalte geklärt.
 
 * Der Link wird je nach technischer Möglichkeit über Ilias bekanntgegeben. Zur Vorbereitung  der Präsenzzeiten wird in Ilias ein Forum eingerichtet in dem die Fragen, die Berücksichtigung finden sollen, bis jeweils Montag Abend 18:00 Uhr eingestellt werden sollten. 
-* Die Präsenzzeit dient der Beantwortung der Fragen, die zu den Vorlesungsinput den Readern und  den gestellten Übungsaufgaben im Forum gestellt wurden. Sollte die Präsenzveranstaltung technisch nicht stattfinden können wird ein Screencast mit der Beantwortung der Fragen und neuem Input online gestellt
-* Die Rahmenbdingungen für die Projektaufgabe wird bis zum 19.05.2020 eingestellt
-* Abgabe des Projektes: 30.06.2020 (04 Uhr)
+* Die Präsenzzeit dient der Beantwortung der Fragen, die zu den den Readern und  den gestellten Übungsaufgaben im Forum gestellt wurden. Sollte die Präsenzveranstaltung technisch nicht stattfinden können wird ein Screencast mit der Beantwortung der Fragen und neuem Input online gestellt.
+* Abgabe des Projektes: Wird auf Ilias bekannt gegeben
 
 ## Kurszeiten und Inhalte
 
 | Sitzung | Datum | Thema | Inhalt |
 |:-------:|:--------:|:---------|:---------|
 | **Block 1** ||||
-| 1 | 28.05.  | Einführung | Einführung in geographische und GI Raumkonzepte, Einführung in `R` als Programmiersprache, Einstiegsbeispiel Verknüpfung von Tabellen mit Geometriedaten |
-| 2 | 05.05.  | Räumliche Datenvisualisierung, Karten und mehr | Die reproduzierbare Erstellung von Karten zur explorativen und interaktiven Nutzung sowie zur Darstellung von Ergebnissen |
-| 3 | 12.05.  | Räumliche Datenvorhersage und ihre Exploration | Überblick über wichtige Methoden zur räumlichen Vorhersage und ihre Darstellung |
-| 4 | 19.05.  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 1 die Grundlagen  | Grundlagen des Maschinellen Lernens am Beispiel des random forest Algorithmus, räumliche Besonderheiten |
-| 5 | 26.05.  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 2 das Projekt  | Projekt zu einer einfachen ML Anwendung inkl. Visualisierung und Kurzanalyse  |
+| 1 | NN  | Einführung | Einführung in geographische und GI Raumkonzepte, Einführung in `R` als Programmiersprache, Einstiegsbeispiel Verknüpfung von Tabellen mit Geometriedaten |
+| 2 | NN  | Räumliche Datenvisualisierung, Karten und mehr | Die reproduzierbare Erstellung von Karten zur explorativen und interaktiven Nutzung sowie zur Darstellung von Ergebnissen |
+| 3 | NN  | Räumliche Datenvorhersage und ihre Exploration | Überblick über wichtige Methoden zur räumlichen Vorhersage und ihre Darstellung |
+| 4 | NN  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 1 die Grundlagen  | Grundlagen des Maschinellen Lernens am Beispiel des random forest Algorithmus, räumliche Besonderheiten |
+| 5 | NN  | Maschinelles Lernen in der räumlichen Datenvorhersage - Teil 2 das Projekt  | Projekt zu einer einfachen ML Anwendung inkl. Visualisierung und Kurzanalyse  |
 
 
-## Team
+## Kursleitung
 
-Block 1 wird von Chris Reudenbach durchgeführt während die Blöcke 2 und 3 von Thomas Brenner geleitet werden. 
 
 {% for author in site.data.authors %} 
   {% include author-profile.html %}
