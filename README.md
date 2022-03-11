@@ -1,4 +1,4 @@
-Der [Kursinhalt](https://geomoer.github.io/moer-mhg-spatial/) wird auf Github entwickelt und gehostet [Course Release on Github](https://geomoer.github.io/moer-mhg-modeling/)
+Der [Kursinhalt](https://gisma-courses.github.io/r-spatial-econometry-basics/) wird auf Github entwickelt und gehostet.
 
 Dieser Kurs wird Ihnen im Rahmen der [Open Educational Resources](https://oer.uni-marburg.de) Initiative der [Universität Marburg, Deutschland](https://www.uni-marburg.de/de) von der Arbeitsgruppe [Umweltinformatik](https://www.uni-marburg.de/fb19/fachgebiete/umweltinformatik/) des [Fachbereichs Geographie](https://www.uni-marburg.de/fb19) zur Verfügung gestellt.
 
