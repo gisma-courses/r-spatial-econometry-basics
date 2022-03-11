@@ -37,13 +37,10 @@ Am Ende dieses Teilmoduls können Sie
 ## Kursmerkmale
 Der Kurs ist primär für Studierende in Präsenzveranstaltung gedacht, eignet sich in gewissem Maße aber auch zum Selbststudium.
 
-Information aufgrund der **Coronavirus-Pandemie**: Aus Gründen des Infektionsschutzes sind Präsenzveranstaltung derzeit nicht möglich. Der Kurs findet deshalb digital statt. 
-
-
 
 ## Studien- und Prüfungsleistung
 
-In jedem der drei Blöcke des Kurses ist ein individuelles Projekt durchzuführen und ein entsprechender Projektbericht zu verfassen. Der Umfang des Berichtes soll je 2-3 Seiten betragen. Genauere Angaben zu den Projekten erfolgen in den jeweiligen Blöcken. Jeder Bericht wird bewertet und die Note im Kurs ergibt sich als Durchschnitt aus den drei Bewertungen. Die Prüfungsleistung ist individuell zu erbringen.
+Zum Abschluss der Übungen ist ein individuelles Projekt durchzuführen und ein entsprechender Projektbericht zu verfassen. Der Umfang des Berichtes soll je 2-3 Seiten betragen. Die Prüfungsleistung ist individuell zu erbringen.
 
 
 
