@@ -9,7 +9,7 @@ header:
   caption: 'Photo: [**NASA/Ames/JPL-Caltech**](https://photojournal.jpl.nasa.gov/jpeg/PIA17446.jpg)'
   cta_label: Zum Kursinhalt
   cta_url: "/units.html"
-excerpt: Visualisierung und Vorhersage räumlicher Daten.
+excerpt: Mikrozensus und Basiskonzepte räumlicher sozioökonomischer Zusammenhänge.
 feature_row_intro:
 - excerpt: Einführungskurs im [Master Studiengang Wirtschaftsgeographie ](https://www.uni-marburg.de/de/fb19/studium/studiengaenge/m-sc-wirtschaftsgeographie/herzlich-willkommen-beim-master-wirtschaftsgeographie){:target="_blank"} an der Philipps Universität Marburg
 feature_row_ilos:
