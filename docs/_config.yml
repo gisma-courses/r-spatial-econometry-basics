@@ -1,4 +1,4 @@
-# Marburg Open Educational Resources
+# gisma spatial science ressources
 #
 # This config file is meant for settings that affect the whole course space.
 #
@@ -27,8 +27,8 @@ url: https://gisma-courses.github.io/
 baseurl: "/r-spatial-econometry-basics/"
 
 ##### Title ###################################################################
-title: GISMA course resources
-name: &name "GISMA course resources" # &name is a YAML anchor which can be *referenced later
+title: gisma spatial science ressources
+name: &name "gisma spatial science ressources" # &name is a YAML anchor which can be *referenced later
 email: reudenbach@geo.uni-marburg.de
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource 
@@ -45,15 +45,14 @@ author:
   bio              : "Marburg University"
   location         : "Marburg, DE"
   email            : "reudenbach@geo.uni-marburg.de"
-  uri              : "https://www.uni-marburg.de/fb19/personal/mitarbeiter/reudenbachc/index.html"
+  uri              : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/reudenbach"
   home             : "https://gis-ma.org"
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/environmentalinformatics-marburg/"
   facebook         : "https://www.facebook.com/GeographieMarburg/"
   foursquare       :
-  github           : "GeoMOER"
+  github           : "gisma-courses"
   gitlab           :
   google_plus      :
   keybase          :
@@ -75,15 +74,12 @@ author:
 ##### Site configuration ######################################################
 title_separator: "|"
 excerpt_separator: <!--more-->
-locale                   : "de-DE"
 
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: "GeoMOER/moer-jekyll-theme"
-
-minimal_mistakes_skin    : "mhg" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+remote_theme: "https://github.com/gisma-courses/moer-jekyll-theme"
+minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 
 # Default Settings
